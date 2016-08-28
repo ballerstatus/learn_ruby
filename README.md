@@ -37,3 +37,6 @@ When you're done, push your changes to your forked repo and then submit a pull r
 ### Credit
 
 This is forked from [https://github.com/alexch/learn_ruby](https://github.com/alexch/learn_ruby), its original creator.
+
+
+- Michael Brenckle: started on 8/27/2016
